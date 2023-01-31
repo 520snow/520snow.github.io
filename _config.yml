@@ -31,25 +31,26 @@ sass:
 navigation:
 - text: Home
   url: /
-- text: About
-  url: /about/
-- text: Style Guide
-  url: /style-guide/
 - text: Archives
   url: /tags/
+- text: Style Guide
+  url: /style-guide/
+- text: About
+  url: /about/
 
 # Author information - author info at the bottom of the post
-author_name: "John Doe"
-author_bio: "My name is John Doe. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 6 years."
-author_url: "https://justgoodthemes.com"
-author_location: "Vilnius, Lithuania"
+author_name: "sunhaojie"
+author_bio: "这里是小孙和小李的恋爱小屋🛖，在此记录着二人的点点滴滴。相知不易，相守更难，我们是幸运的，遇到了双向奔赴的爱情，经历了甜蜜、考验，往后余生，共同守护"
+author_url: "https://520snow.github.com"
+author_location: "Beijing, China"
 author_image: authorimage.jpg
 
 # Footer ad banner
 banner_image: banner.jpg
-banner_url: https://justgoodthemes.com/
+banner_url: https://520snow.github.com/
 
 # Footer newsletter widget - add your form action url for MailChimp signup form here
+# 邮件发送地址
 mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
 
 # Social links in the site footer
