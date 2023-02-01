@@ -26,7 +26,9 @@ DATE: 2023-02-01
 
 直面是改变的第一步！！！
 
-<a title="Minimalism Source" href="https://520snow.github.io/2020/02/01/the-seventh-love-anniversary/" target="_blank">{ Source }</a>
+<a title="Minimalism Source" href="https://520snow.github.io/2023/02/01/the-seventh-love-anniversary/" target="_blank">{ Source }</a>
+
+[source](https://520snow.github.io/2023/02/01/the-seventh-love-anniversary)
 
 <!--more-->
 
