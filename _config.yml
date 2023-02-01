@@ -30,12 +30,16 @@ sass:
 
 # Site navigation - each item must have a title and a url.
 navigation:
+# 首页、主页
 - text: Home
   url: /
+# 标签分类
 - text: Archives
   url: /tags/
+# 模版范文
 - text: Style Guide
   url: /style-guide/
+# 关于我们
 - text: About
   url: /about/
 

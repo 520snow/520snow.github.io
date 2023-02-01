@@ -20,18 +20,15 @@ DATE: 2023-02-01
 
 --------------------------------------------------------------------------------
 
-说说最近发生的事
+1 说说最近发生的事
 -------
-### 过程
+### 1.1 过程
 
-
-NOTE: 这里是需要记录的点
-
-INFO: 这里是提示的点
-
-WARNING: 这个是需要提醒的点
+直面是改变的第一步！！！
 
 <a title="Minimalism Source" href="https://520snow.github.io/2020/02/01/the-seventh-love-anniversary/" target="_blank">{ Source }</a>
+<a title="Minimalism Source" href="https://520snow.github.io/2020/02/01/the-seventh-love-anniversary/" target="_blank"></a>
+[source](https://520snow.github.io/2020/02/01/the-seventh-love-anniversary)
 
 <!--more-->
 
@@ -57,320 +54,29 @@ WARNING: 这个是需要提醒的点
 2)小孙和小雪吃火锅喝酒，小孙求复合，小雪拒绝，并打电话告诉男同事；
 3)小雪决定离婚，并通知小雪妈妈；
 4)小孙多次情绪失控，纠缠、逼迫小雪复合；
-5)手机事件
-6)离家时间
-7)小雪妈妈事件
-8)
+5)大概12月的最后一周,圣诞节，小孙从早到晚准备了很多(疫情中招居家)，晚上邀请小雪看电影，结果一句懒得搭理你触发了争吵，最终小孙放弃复合，并要求归还手机；
+6)1月第一周，圣诞节晚上小雪示好关系缓和，小孙以为和好在即，结果听到小雪和男同事打电话告诉自家私事，并且说小孙恶心，小孙打包小雪衣物，要求立即离婚；
+7)小雪电话告诉小雪妈妈细节，小雪妈妈劝小雪拿到房子，赔偿小孙一些钱；
+8)小雪妈妈说离婚后要有居住权，一直住在这个屋子里，小孙让小雪不幸福，一辈子不让小孙好过；
 ```
 
-#### 下一级标题1-1
-
-### 标题1-2
-#### 下一级标题1-2
-
-内容XXX
-
-小孙的一些思考
+2 当期待没有达到
 -------
-### 我家宝宝的话
+### 2.1 小雪的话
+
+#### 小雪的话
 
 
-{% include image_caption.html imageurl="/images/posts/2023/wechat0201_2.jpg" title="wechat details" caption="wechat details" %}
+{% include image_caption.html imageurl="/images/posts/2023/wechat0201_2.jpg" title="11月最后一周小孙封闭期间聊天截图" caption="wechat datails" %}
 
-{% include image_caption.html imageurl="/images/posts/2023/wechat0201_2.jpg" title="wechat details" caption="wechat details" %}
-内容XXX
+{% include image_caption.html imageurl="/images/posts/2023/wechat0201_1.jpg" title="12月小孙和小雪的聊天截图" caption="wechat details" %}
 
-NOTE: 这里是需要记录的点
+#### 小孙的反思
 
-INFO: 这里是提示的点
+{% include image_caption.html imageurl="/images/posts/2023/table20230201.png" title="小孙的思考总结" caption="wechat details" %}
 
-WARNING: 这个是需要提醒的点
+### 2.2 小孙的烦恼
 
-#### 下一级标题2-1
 
-### 小孙的想法
-#### 下一级标题2-2
-```
-# 吉他和弦图案
-# 特殊符号: <C-K>开始
-# ×  *X
-# ₁  1s
-# ₋  -s
-# ₊  +s
-# Ⅰ  1R 2160 8544 ROMAN NUMERAL ONE
-# Ⅱ  2R 2161 8545 ROMAN NUMERAL TWO
-# Ⅲ  3R 2162 8546 ROMAN NUMERAL THREE
-# Ⅳ  4R 2163 8547 ROMAN NUMERAL FOUR
-# Ⅴ  5R 2164 8548 ROMAN NUMERAL FIVE
-# Ⅵ  6R 2165 8549 ROMAN NUMERAL SIX
-# Ⅶ  7R 2166 8550 ROMAN NUMERAL SEVEN
-# Ⅷ  8R 2167 8551 ROMAN NUMERAL EIGHT
-# Ⅸ  9R 2168 8552 ROMAN NUMERAL NINE
-# Ⅹ  aR 2169 8553 ROMAN NUMERAL TEN
-# Ⅺ  bR 216A 8554 ROMAN NUMERAL ELEVEN
-# Ⅻ  cR 216B 8555 ROMAN NUMERAL TWELVE
-
-# SUBSCRIPT NUMBERS ZERO ~ NINE
-₀
-₁
-₂
-₃
-₄
-₅
-₆
-₇
-₈
-₉
-
-# SUPERSCRIPT NUMBERS ZERO ~ NINE
-⁰
-¹
-²
-³
-⁴
-⁵
-⁶
-⁷
-⁸
-⁹
-
-# 可以通过 :help digraph-table 查看所有的特殊字符
-
-C和弦
-
-×     o   o
------------
-| | | | ₁ |
------------
-| | ₂ | | |
------------
-| ₃ | | | |  Ⅲ
------------
-```
-
-Mardown的扩展
+3 婚姻的真谛
 -------------
-### 五线谱
-INFO: Thanks to [abcjs](http://abcjs.net)
-
-NOTE: 使用教程: [Learn Abc](http://abcnotation.com/learn), [abc_notation](http://www.lesession.co.uk/abc/abc_notation.htm), [abc:standard](http://abcnotation.com/wiki/abc:standard:v2.1)
-
-MUSIC:
-X: 1
-T: Cooley's
-M: 4/4
-L: 1/8
-R: reel
-K: Emin
-|:D2|EB{c}BA B2 EB|~B2 AB dBAG|FDAD BDAD|FDAD dAFD|
-EBBA B2 EB|B2 AB defg|afe^c dBAF|DEFD E2:|
-|:gf|eB B2 efge|eB B2 gedB|A2 FA DAFA|A2 FA defg|
-eB B2 eBgB|eB B2 defg|afe^c dBAF|DEFD E2:|
-
-NOTE: Thanks to [abcjs](https://abcjs.net/)
-
-```
-MUSIC:
-X: 1
-T: Cooley's
-M: 4/4
-L: 1/8
-R: reel
-K: Emin
-|:D2|EB{c}BA B2 EB|~B2 AB dBAG|FDAD BDAD|FDAD dAFD|
-EBBA B2 EB|B2 AB defg|afe^c dBAF|DEFD E2:|
-|:gf|eB B2 efge|eB B2 gedB|A2 FA DAFA|A2 FA defg|
-eB B2 eBgB|eB B2 defg|afe^c dBAF|DEFD E2:|
-```
-
-### 和弦
-INFO: Thanks to [chordy-svg](https://github.com/andygock/chordy-svg)
-
-Em9: `3 7 #4 5 7`
-
-CHORD: 02400x
-
-```
-CHORD: 02400x
-```
-
-### 流程图
-INFO: Thanks to [flowchart](https://flowchart.js.org)
-
-FLOW:
-init=>start: Follower无法接收到Leader发出的
-Heartbeat(即Election Timeout)
-be_candidate=>operation: Follower变成Candidate
-时间序列Term++
-vote=>operation: Candidate
-让剩下的nodes
-进行Vote
-reply=>operation: 其他的nodes进行vote
-become_leader=>condition: Candidate
-获取到大多数
-nodes的投票
-become_leader_yes=>operation: Candidate变成Leader
-send_heartbeat=>end: 发送Heartbeat信息
-停止其他节点的election
-init->be_candidate->vote->reply->become_leader
-become_leader(yes)->become_leader_yes->send_heartbeat
-become_leader(no)->be_candidate
-
-```
-FLOW:
-init=>start: Follower无法接收到Leader发出的
-Heartbeat(即Election Timeout)
-be_candidate=>operation: Follower变成Candidate
-时间序列Term++
-vote=>operation: Candidate
-让剩下的nodes
-进行Vote
-reply=>operation: 其他的nodes进行vote
-become_leader=>condition: Candidate
-获取到大多数
-nodes的投票
-become_leader_yes=>operation: Candidate变成Leader
-send_heartbeat=>end: 发送Heartbeat信息
-停止其他节点的election
-init->be_candidate->vote->reply->become_leader
-become_leader(yes)->become_leader_yes->send_heartbeat
-become_leader(no)->be_candidate
-```
-
-### 树形结构
-INFO: Thanks to [Trent](http://fperucic.github.io/treant-js/)
-
-TREE:
-{
-        text: { name: "Fixed Thread Pool Executor" },
-        children: [
-            {
-                text: { name: "ThreadPoolExecutor" },
-                children: [
-                  {
-                    text: {
-                      name: "corePoolSize 100",
-                      title: "执行任务的线程数. When a new task is submitted, and fewer than corePoolSize threads are running, a new thread is created to handle the request, even if other worker threads are idle"
-                      }
-                  },
-                  {
-                    text: {
-                      name: "maxPoolSize 100",
-                      title: "执行任务的最大线程数. If there are more than corePoolSize but less than maximumPoolSize threads running, a new thread will be created only if the queue is full"
-                    },
-                  },
-                  { text: { name: "keepAliveTime 0ms", title: "当线程数大于 corePoolSize 时, 超出的线程的最大空闲时间, 在对队列进行poll的时候使用" } },
-                  { text: { name: "LinkedBlockingQueue <Runnable>", title: "线程池所使用的队列" } }
-                ],
-            },
-            {
-                text: { name: "execute Runnable", title: "执行的命令" }
-            }
-       ]
-}
-
-```
-TREE:
-{
-        text: { name: "Fixed Thread Pool Executor" },
-        children: [
-            {
-                text: { name: "ThreadPoolExecutor" },
-                children: [
-                  {
-                    text: {
-                      name: "corePoolSize 100",
-                      title: "执行任务的线程数. When a new task is submitted, and fewer than corePoolSize threads are running, a new thread is created to handle the request, even if other worker threads are idle"
-                      }
-                  },
-                  {
-                    text: {
-                      name: "maxPoolSize 100",
-                      title: "执行任务的最大线程数. If there are more than corePoolSize but less than maximumPoolSize threads running, a new thread will be created only if the queue is full"
-                    },
-                  },
-                  { text: { name: "keepAliveTime 0ms", title: "当线程数大于 corePoolSize 时, 超出的线程的最大空闲时间, 在对队列进行poll的时候使用" } },
-                  { text: { name: "LinkedBlockingQueue <Runnable>", title: "线程池所使用的队列" } }
-                ],
-            },
-            {
-                text: { name: "execute Runnable", title: "执行的命令" }
-            }
-       ]
-}
-```
-
-### asciinema-player
-PLAYER: test.json
-
-```bash
-# 安装 asciinema
-brew install asciinema
-
-# 先录制视频, 并将录制结果保存至 assets/players/ 中
-asciinema rec assets/players/test.json
-
-# 在 markdown 中添加下面一行即可
-PLAYER: test.json
-```
-
-- [asciinema-player](https://github.com/asciinema/asciinema-player)
-- [asciinema-server](https://github.com/asciinema/asciinema-server/issues/256)
-- [asciinema/asciinema](https://github.com/asciinema/asciinema)
-
-#### rails_api 的录制例子
-PLAYER: rails_api.json
-
-### chart
-```
-CHART:
-{
-  "名称": {
-  1 => 120,
-  2 => 100,
-  3 => 122,
-  4 => 139,
-  5 => 124,
-  6 => 100,
-  8 => 124,
-  9 => 124,
-  10 => 160,
-  11 => 168
-  }
-}
-```
-
-CHART:
-{
-  "名称": {
-  1 => 120,
-  2 => 100,
-  3 => 122,
-  4 => 139,
-  5 => 124,
-  6 => 100,
-  8 => 124,
-  9 => 124,
-  10 => 160,
-  11 => 168
-  }
-}
-
-- [Chart.js](https://www.chartjs.org/docs/latest/)
-
-### diagram
-```
-DIAGRAM:
-Title: Here is a title
-A->B: Normal line
-B-->C: Dashed line
-C->>D: Open arrow
-D-->>A: Dashed open arrow
-```
-
-DIAGRAM:
-Title: Here is a title
-A->B: Normal line
-B-->C: Dashed line
-C->>D: Open arrow
-D-->>A: Dashed open arrow
