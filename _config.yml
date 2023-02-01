@@ -12,7 +12,8 @@ title: ❄️  爱情小窝 ❄️
 tagline: 小孙和小李的爱情小窝.
 
 # Site logo
-logo: snow.jpg
+#logo: snow.jpg
+logo:
 
 # A description of your site for social meta tag, search engines, and feed.xml
 description: |
