@@ -64,14 +64,14 @@ DATE: 2023-02-01
 -------
 ### 2.1 小雪的话
 
-#### 小雪的话
+#### 2.1.1 小雪的话
 
 
 {% include image_caption.html imageurl="/images/posts/2023/wechat0201_2.jpg" title="11月最后一周小孙封闭期间聊天截图" caption="wechat datails" %}
 
 {% include image_caption.html imageurl="/images/posts/2023/wechat0201_1.jpg" title="12月小孙和小雪的聊天截图" caption="wechat details" %}
 
-#### 小孙的反思
+#### 2.1.2 小孙的反思
 
 {% include image_full.html imageurl="/images/posts/2023/table20230201.png" title="小孙的思考总结" caption="wechat details" %}
 
