@@ -28,7 +28,7 @@ DATE: 2023-02-01
 
 <a title="Minimalism Source" href="https://520snow.github.io/2020/02/01/the-seventh-love-anniversary/" target="_blank">{ Source }</a>
 <a title="Minimalism Source" href="https://520snow.github.io/2020/02/01/the-seventh-love-anniversary/" target="_blank"></a>
-[source](https://520snow.github.io/2020/02/01/the-seventh-love-anniversary)
+[source](https://520snow.github.io/2020/02/01/the-seventh-love-anniversary/)
 
 <!--more-->
 
@@ -73,7 +73,7 @@ DATE: 2023-02-01
 
 #### 小孙的反思
 
-{% include image_caption.html imageurl="/images/posts/2023/table20230201.png" title="小孙的思考总结" caption="wechat details" %}
+{% include image_full.html imageurl="/images/posts/2023/table20230201.png" title="小孙的思考总结" caption="wechat details" %}
 
 ### 2.2 小孙的烦恼
 
